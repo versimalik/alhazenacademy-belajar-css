@@ -1,0 +1,6 @@
+p ~ section{
+    border: 1px solid blue;
+    border-radius: 30px;
+    padding: 20px;
+    margin-bottom: 15px;
+}
